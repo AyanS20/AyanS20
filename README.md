@@ -161,15 +161,17 @@ An IoT-based smart notice board that allows users to control and update displaye
 
 ## 🤝 Connect With Me
 
+## 🤝 Connect With Me
+
 <p align="center">
   <a href="https://github.com/AyanS20">
     <img src="https://img.shields.io/badge/GitHub-AyanS20-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-<p align="left">
-  <a herf="https://www.linkedin.com/in/ayan-das-adhikari-das-adhikari-913012376/>
-    </p>
-    </p>
-    </a>
-    </a>
+  </a>
+  <a href="https://www.linkedin.com/in/ayan-das-adhikari-das-adhikari-913012376/">
+    <img src="https://img.shields.io/badge/LinkedIn-Ayan%20Das%20Adhikari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+  
 
 ---
 
