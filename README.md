@@ -116,30 +116,12 @@ An IoT-based smart notice board that allows users to control and update displaye
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyanS20&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyanS20&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
 ## 🔥 Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AyanS20&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
----
-
-## 🐍 Snake
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AyanS20/AyanS20/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AyanS20/AyanS20/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AyanS20/AyanS20/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
 
 ## 🎯 Currently Learning
 
@@ -158,12 +140,15 @@ An IoT-based smart notice board that allows users to control and update displaye
 ## 📈 My Developer Journey
 
 ```text
-2019 ─── Madhyamik
+2019 ─── Madhyamik(Netaji shikshayatan)
    │
-2021 ─── Higher Secondary
+2021 ─── Higher Secondary(Belgharia Jatin Das vidhyamandir)
    │
-2023 ─── Diploma in Information Technology
+2023 ─── Diploma in Information Technology(BIT)
    │
+2024
+   │}───B.TECH in CSE(GNIT)
+2027
 2025 ─── Python / Django / IoT Learning
    │
 2026 ─── AI/ML + Software Development Projects
@@ -179,8 +164,12 @@ An IoT-based smart notice board that allows users to control and update displaye
 <p align="center">
   <a href="https://github.com/AyanS20">
     <img src="https://img.shields.io/badge/GitHub-AyanS20-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-</p>
+<p align="left">
+  <a herf="https://www.linkedin.com/in/ayan-das-adhikari-das-adhikari-913012376/>
+    </p>
+    </p>
+    </a>
+    </a>
 
 ---
 
