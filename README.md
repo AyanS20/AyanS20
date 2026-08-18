@@ -133,9 +133,13 @@ An IoT-based smart notice board that allows users to control and update displaye
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Snake
 
-<p align="center"> <img src="https://streak-stats.demolab.com?user=AyanS20&theme=tokyonight&hide_border=true" alt="GitHub Streak"/> </p> --- ## 🐍 Contribution Snake <p align="center"> <img src="https://raw.githubusercontent.com/AyanS20/AyanS20/snake-output/snake.svg" alt="Snake animation"/> </p>
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AyanS20/AyanS20/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AyanS20/AyanS20/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AyanS20/AyanS20/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 
 ## 🎯 Currently Learning
 
