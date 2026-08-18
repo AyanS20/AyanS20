@@ -1,125 +1,195 @@
-<br clear="both">
+# 👋 Hi, I'm Ayan Das Adhikari
 
-<h1 data-importer="text" align="center">Hi 👋! I'm Ayan Das Adhikari</h1>
+<h3 align="center">
+  🚀 Aspiring Software Engineer | 🐍 Python Developer | 🌐 Django Developer
+</h3>
 
-###
+<p align="center">
+  <a href="https://github.com/AyanS20">
+    <img src="https://komarev.com/ghpvc/?username=AyanS20&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/AyanS20?tab=followers">
+    <img src="https://img.shields.io/github/followers/AyanS20?label=Followers&style=flat" alt="GitHub Followers"/>
+  </a>
+</p>
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/AyanS20/AyanS20/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
-  <img src="https://raw.githubusercontent.com/AyanS20/AyanS20/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+## 🧑‍💻 About Me
 
-<img data-importer="image" align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+```text
+🎓 Diploma in Information Technology
+💻 Passionate about Software Development
+🐍 Currently working with Python & Django
+🤖 Interested in AI/ML and IoT
+🌱 Continuously learning new technologies
+🚀 Building projects to improve my development skills
+🎯 Goal: Become a skilled Software Engineer
+```
 
-###
+---
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="30" alt="chrome logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" alt="google logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-</div>
+## 🛠️ Tech Stack
 
-###
+### 👨‍💻 Programming Languages
 
-<div data-importer="socials" align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-</div>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+</p>
 
-###
+### 🌐 Web Development
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/AyanS20/AyanS20/snake-output/snake.svg" alt="Snake animation" />
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" height="45" alt="Bootstrap"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45" height="45" alt="Django"/>
+</p>
 
-###
+### 🤖 AI / ML / IoT
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/AyanS20/AyanS20/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/AyanS20/AyanS20/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="45" height="45" alt="Arduino"/>
+</p>
 
-###
+### ☁️ Tools & Platforms
 
-<div data-importer="techs" align="left">
-</div>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" height="45" alt="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/>
+</p>
 
-###
+---
 
-<div data-importer="techs" align="left">
-</div>
+## 🚀 Featured Projects
 
-###
+### 🛒 Online Shopping Website
 
-<div data-importer="socials" align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/spotify/default.svg" width="52" height="40" alt="spotify logo"  />
-</div>
+**Python • Django • HTML • CSS • Bootstrap**
 
-###
+A full-stack online shopping website with features such as:
 
-<div data-importer="socials" align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/spotify/default.svg" width="52" height="40" alt="spotify logo"  />
-</div>
+* 👤 Customer registration and login
+* 🔎 Product searching
+* 🛍️ Product management
+* 📦 Order management
+* 💳 Payment integration
+* 🚚 Delivery management
+* 👨‍💼 Admin dashboard
 
-###
+---
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/AyanS20/AyanS20/snake-output/snake.svg" alt="Snake animation" />
+### 🤖 Student Performance AI
 
-###
+**Python • Machine Learning • Data Analysis**
 
-<br clear="both">
+A machine-learning project designed to analyze and predict student performance.
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AyanS20/AyanS20/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AyanS20/AyanS20/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AyanS20/AyanS20/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-</picture>
+**Team Project**
 
-###
+* 📊 Data preprocessing
+* 🤖 Machine Learning model
+* 📈 Performance evaluation
+* 🔮 Student performance prediction
 
-<br clear="both">
+---
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AyanS20/AyanS20/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AyanS20/AyanS20/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AyanS20/AyanS20/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-</picture>
+### 🌦️ Weather Prediction Application
 
-###
+**Python • Django • Machine Learning**
+
+A web-based weather prediction application developed during Django/Python training.
+
+---
+
+### 📢 App Controlled Smart Notice Board
+
+**IoT • Arduino • Mobile Application**
+
+An IoT-based smart notice board that allows users to control and update displayed messages through an application.
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AyanS20&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyanS20&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AyanS20&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AyanS20/AyanS20/snake-output/snake.svg" alt="Snake animation"/>
+</p>
+
+---
+
+## 🎯 Currently Learning
+
+```text
+🐍 Advanced Python
+🌐 Django & Backend Development
+🤖 Machine Learning
+🗄️ Databases
+☁️ Cloud Technologies
+🔧 Git & GitHub
+💻 Data Structures & Algorithms
+```
+
+---
+
+## 📈 My Developer Journey
+
+```text
+2019 ─── Madhyamik
+   │
+2021 ─── Higher Secondary
+   │
+2023 ─── Diploma in Information Technology
+   │
+2025 ─── Python / Django / IoT Learning
+   │
+2026 ─── AI/ML + Software Development Projects
+   │
+   ▼
+🎯 Future Goal → Software Engineer
+```
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/AyanS20">
+    <img src="https://img.shields.io/badge/GitHub-AyanS20-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+## 💡 Developer Quote
+
+<p align="center">
+  <i>"Code. Learn. Build. Improve. Repeat. 🚀"</i>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
