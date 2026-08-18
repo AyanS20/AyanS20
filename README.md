@@ -135,11 +135,7 @@ An IoT-based smart notice board that allows users to control and update displaye
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AyanS20/AyanS20/snake-output/snake.svg" alt="Snake animation"/>
-</p>
-
----
+<p align="center"> <img src="https://streak-stats.demolab.com?user=AyanS20&theme=tokyonight&hide_border=true" alt="GitHub Streak"/> </p> --- ## 🐍 Contribution Snake <p align="center"> <img src="https://raw.githubusercontent.com/AyanS20/AyanS20/snake-output/snake.svg" alt="Snake animation"/> </p>
 
 ## 🎯 Currently Learning
 
